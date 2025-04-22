@@ -24,8 +24,3 @@ ansible all -i inventory/hosts.yml -m ping
 # Run playbook
 ansible-playbook playbook.yml
 
-## HTML Output
-
-Below is the screenshot of the rendered web page:
-
-![Rendered HTML Screenshot](./screenshot.png)
